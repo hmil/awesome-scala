@@ -331,6 +331,7 @@ Projects with over 500 stargazers are in bold.
 * [Netcaty ★ 11 ⧗ 68](https://github.com/ngocdaothanh/netcaty) - Simple net test client/server for Netty and Scala lovers.
 * [Newman ★ 237 ⧗ 0](https://github.com/stackmob/newman) - A REST DSL that tries to take the best from Dispatch, Finagle and Apache HttpClient. See [here](https://www.paypal-engineering.com/2014/02/13/hello-newman-a-rest-client-for-scala/) for rationale.
 * [scalaj-http ★ 380 ⧗ 0](https://github.com/scalaj/scalaj-http) - Simple scala wrapper for HttpURLConnection (including OAuth support).
+* [scala-http-client ★ 11 ⧗ 3](https://github.com/hmil/scala-http-client) - HTTP client library for Scala and Scala.js with a browser, Node.js and JVM backend.
 * [Scalaxb ★ 198 ⧗ 5](https://github.com/eed3si9n/scalaxb) - An XML data-binding tool for Scala that supports W3C XML Schema (xsd) and Web Services Description Language (wsdl) as the input file.
 * [Spray](http://spray.io/) - Actor-based library for http interaction.
 * [Tubesocks ★ 7 ⧗ 143](https://github.com/softprops/tubesocks) - Library supporting bi-directional communication with websocket servers.
